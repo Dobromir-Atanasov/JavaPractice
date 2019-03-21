@@ -1,0 +1,4 @@
+hashrate=743
+voltage=9.2
+username=root
+password=root
